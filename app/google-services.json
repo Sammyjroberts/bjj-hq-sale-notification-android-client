@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690707762919",
+    "firebase_url": "https://bjjhqdeals.firebaseio.com",
+    "project_id": "bjjhqdeals",
+    "storage_bucket": "bjjhqdeals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690707762919:android:a4b698da025ec733",
+        "android_client_info": {
+          "package_name": "com.bjjhqdeals.sabresoftware.bjjhqdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690707762919-5dslv4jgnijif9melv4skfia33fsiqol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bjjhqdeals.sabresoftware.bjjhqdeals",
+            "certificate_hash": "ea76320bda623a6bf5b906e45f63c8ec65d58834"
+          }
+        },
+        {
+          "client_id": "690707762919-kbd2di5jnuf8hqlb11rvk7g0t601jtpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_7sIzyi535YrAc7VN6JEqdjRCA44iCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690707762919-kbd2di5jnuf8hqlb11rvk7g0t601jtpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
